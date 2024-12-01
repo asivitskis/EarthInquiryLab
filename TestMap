@@ -1,5 +1,0 @@
-pip install -U leafmap
-import leafmap
-m = leafmap.Map(
-)
-m
