@@ -1,0 +1,7 @@
+leafmap
+geopandas
+rasterio
+matplotlib
+pandas
+numpy
+ipyleaflet
